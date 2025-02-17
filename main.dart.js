@@ -30175,7 +30175,7 @@ l=A.VP(B.ej,A.a([A.a2K(A.a2O(A.a([new A.pS(o,100,100,B.uG,q),new A.dA(B.eU,n,q),
 r=$.wv()
 return new A.rC(l,A.afD(B.i,A.m6(B.xG,q),r,!1,new A.Nz(a)),p,q)}}
 A.Nu.prototype={
-$0(){A.i4(A.d6("https://pixeldrain.com/u/7gjKUTgU",0,null),B.ax)},
+$0(){A.i4(A.d6("https://bumalapp.xyz/BuMalV2.apk",0,null),B.ax)},
 $S:0}
 A.Nv.prototype={
 $0(){A.i4(A.d6("https://bumal.xyz/",0,null),B.ax)},
@@ -30204,7 +30204,7 @@ $1(a){var s=null,r=$.wv(),q=A.oq(8)
 return new A.lx(A.mT("\u1018\u101a\u103a Device \u1010\u103d\u1000\u103a Download \u1006\u103d\u1032\n\u1021\u101e\u102f\u1036\u1038\u1015\u103c\u102f\u1001\u103b\u1004\u103a\u1010\u102c\u101c\u1032\u101b\u103d\u1031\u1038\u1001\u103b\u101a\u103a\u1015\u103c\u102e\u1038 Download \u101c\u102f\u1015\u103a\u1014\u102d\u102f\u1004\u103a\u1015\u102b\u1010\u101a\u103a\u104b",A.f4(s,s,B.i,s,s,s,s,s,"Myanmar",s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),A.a([new A.mm(new A.Nq(),"Android",s),new A.mm(new A.Nr(),"IOS",s),new A.mm(new A.Ns(),"Computer",s)],t.l),r,10,new A.bQ(q,B.a5),s)},
 $S:237}
 A.Nq.prototype={
-$0(){A.i4(A.d6("https://pixeldrain.com/u/7gjKUTgU",0,null),B.ax)},
+$0(){A.i4(A.d6("https://bumalapp.xyz/BuMalV2.apk",0,null),B.ax)},
 $S:0}
 A.Nr.prototype={
 $0(){A.i4(A.d6("https://bumal.xyz/",0,null),B.ax)},
